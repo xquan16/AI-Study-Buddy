@@ -1,4 +1,4 @@
-# 🤖 AI Study Buddy (RAG Project)
+# 🤖AI Study Buddy (RAG Project)
 
 This is a simple Generative AI (GenAI) application that allows you to "chat" with your own documents.
 
